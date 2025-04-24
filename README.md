@@ -1,8 +1,8 @@
 ## Olá!! Eu sou o Nicolas Henrique
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 💻 Atualmente Cursando Engenharia De Software
+- 💻 Estudando Java e Python 
+- 💻 Adquirindo conhecimento em resolução de problemas 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolashenrrique&show_icons=true&theme=transparent)
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,4 +19,4 @@
 </div>     
 
 
-![snake animation](https://github.com/Nicolashenrrique/Nicolashenrrique/blob/output/github-contribution-grid-snake.svg)
+
