@@ -1,9 +1,10 @@
 ## Olá!! Eu sou o Nicolas Henrique
 
 - 💻 Atualmente Cursando Engenharia De Software
-- 💻 Estudando Java e Python
 - 💻 Estudando linguagens de front-end  
 - 💻 Adquirindo conhecimento em resolução de problemas 
+- 💻 Adquirindo conhecimento em SQL
+- 💻 Adquirindo conhecimento em PowerBi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolashenrrique&show_icons=true&theme=transparent)
  <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
